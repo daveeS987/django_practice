@@ -1,4 +1,4 @@
-# Django Tutorial
+# Django Practice
 
 ## Links & Resources
 
